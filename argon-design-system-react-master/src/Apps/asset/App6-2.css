@@ -1,0 +1,117 @@
+.imageContainer {
+    position: relative;
+    text-align: center;
+    width: 300px;
+    height:  200px;
+  }
+  
+  .expire {
+    position: absolute;
+    bottom: 12%;
+    left: 10%;
+    
+  }
+  
+  
+  .cvv2 {
+    position: absolute;
+    top: 44%;
+    left: 15%;
+  }
+  
+  .cartNumber {
+    position: absolute;
+    top: 58%;
+    left: 12%;
+    /* transform: translate(-50%, -50%); */
+  }
+
+  .fullName {
+    position: absolute;
+    bottom: 12%;
+    right:  5%;
+    /* transform: translate(-50%, -50%); */
+  }
+
+  .expireSina {
+    position: absolute;
+    bottom: 22%;
+    right: 22%;
+    
+  }
+  
+  
+  .cvv2Sina {
+    position: absolute;
+    top: 64%;
+    left: 18%;
+  }
+  
+  .cartNumberSina {
+    position: absolute;
+    top: 45%;
+    left: 12%;
+    /* transform: translate(-50%, -50%); */
+  }
+
+  .fullNameSina {
+    position: absolute;
+    bottom: 12%;
+    right:  5%;
+    /* transform: translate(-50%, -50%); */
+  }
+
+  .expireMehr {
+    position: absolute;
+    bottom: 12%;
+    left: 6%;
+    
+  }
+  
+  
+  .cvv2Mehr {
+    position: absolute;
+    bottom: 12%;
+    right: 13%;
+  }
+  
+  .cartNumberMehr {
+    position: absolute;
+    top: 58%;
+    left: 9%;
+    /* transform: translate(-50%, -50%); */
+  }
+
+  .fullNameMehr {
+    position: absolute;
+    top: 35%;
+    right:  15%;
+    /* transform: translate(-50%, -50%); */
+  }
+
+  .expireK {
+    position: absolute;
+    bottom: 3.5%;
+    right:  18%;
+  }
+  
+  
+  .cvv2K {
+    position: absolute;
+    top: 39%;
+    left: 28%;
+  }
+  
+  .cartNumberK {
+    position: absolute;
+    top: 60%;
+    left: 10%;
+    /* transform: translate(-50%, -50%); */
+  }
+
+  .fullNameK {
+    position: absolute;
+    bottom: 15%;
+    left: 10%;
+    /* transform: translate(-50%, -50%); */
+  }
